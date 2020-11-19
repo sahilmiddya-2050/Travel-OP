@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/travel-1.jpg",
+    "alt": "Bali",
+    "name": "Tian Beach",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-2.jpg",
+    "alt": "Mountaim",
+    "name": "Mountain",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-3.jpg",
+    "alt": "Amazing Nature",
+    "name": "Amazing Nature",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-4.jpg",
+    "alt": "Switzerland",
+    "name": "Switzerland",
+    "button": "View Destination"
+  }
+]
